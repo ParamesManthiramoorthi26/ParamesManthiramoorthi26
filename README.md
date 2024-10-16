@@ -1,4 +1,6 @@
 ![ParameswariManthiramoorthi](https://avatars.githubusercontent.com/u/176913952?s=400&u=ba8de8104c5fbd81ea15a4bf6e077366d4685aee&v=4)
+
+
 👋 Hi, I’m @ParamesManthiramoorthi DataScientist 👋
 👀 I’m interested in data science, machine learning, and exploring new technologies in data analysis.
 🌱 I’m currently learning advanced Python, SQL, and data visualization techniques.
