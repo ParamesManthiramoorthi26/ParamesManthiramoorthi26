@@ -19,4 +19,9 @@ You can click the Preview link to take a look at your changes.
 # [Project 2] (https://github.com/ParamesManthiramoorthi26/BANK-LOAN-PERFORMANCE-ANALYSIS_PowerBI)
 
 
+# [Project 3] (https://github.com/ParamesManthiramoorthi26/E-Commerce-Customer-Churn-Analysis_MySQL)
+
+
+
+
 
