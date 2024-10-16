@@ -14,3 +14,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # [Project 1] (https://github.com/ParamesManthiramoorthi26/Healthcare-Data-Analysis-and-Insights_ExcelDashboard)
+
+
+# [Project 2] (https://github.com/ParamesManthiramoorthi26/BANK-LOAN-PERFORMANCE-ANALYSIS_PowerBI)
+
+
+
