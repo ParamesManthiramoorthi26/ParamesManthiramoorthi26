@@ -1,4 +1,4 @@
-![ParameswariManthiramoorthi](https://avatars.githubusercontent.com/u/176913952?s=400&u=71706cd297c04d8586a9e2125fbf42c3a8312822&v=4)
+![ParameswariManthiramoorthi](https://avatars.githubusercontent.com/u/176913952?v=4)
 
 
 👋 Hi, I’m @ParamesManthiramoorthi DataScientist 👋
