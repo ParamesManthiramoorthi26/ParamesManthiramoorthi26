@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 # [project 6] (https://github.com/ParamesManthiramoorthi26/Loan-Approval)
 
+# [Project 7] (https://github.com/ParamesManthiramoorthi26/Munnar-Data-Analysis)
+
 
 
 
